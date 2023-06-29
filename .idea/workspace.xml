@@ -5,13 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b863e1c-1db3-407a-a3c1-cdedfcbc591d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hashing/Colinearpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hashing/CountRectangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hashing/WindowString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedlist/LongestPalindromicList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/AllsubsequencesSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/GoodNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Recursion/PrintAllSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/Checktwobracketexpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/DoubleCharacterTrouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/IndexofNearestSamllestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/InfixtoPostfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/NearestGreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/NearestSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/SimplifyDirectoryPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stacks/SortStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/BottomViewofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/DeserializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/DistancebetweenNodesofBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/EqualTreePartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/MaxsumPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/NodeFromDistanceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/OddandEvenLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/SerializeBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/SortedArraytoBalanceBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/TopViewofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/TreePostandInorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Tree/VerticalOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bactracking/GenerateAllPossibleNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/AggressiveCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/AllocateBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/AthMagicalnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/CeilingofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/FloorofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/FoodPacketsDistribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/FreqofElementSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/KthMinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/Kworkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/LastandFirstIndx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/Matrixmedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/MedianArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/PainterPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/SpecialInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/searching/freqofgivenElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/MaximumMinimumMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sorting/SumtheDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +88,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,12 +110,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680200066706</updated>
-      <workItem from="1680200068039" duration="1895000" />
+      <workItem from="1680200068039" duration="2479000" />
+      <workItem from="1680237182323" duration="18000" />
+      <workItem from="1680946176451" duration="4701000" />
+      <workItem from="1680953752918" duration="844000" />
+      <workItem from="1681049846024" duration="5932000" />
+      <workItem from="1681104911966" duration="5000000" />
+      <workItem from="1681231202254" duration="581000" />
+      <workItem from="1681306016359" duration="677000" />
+      <workItem from="1681407289225" duration="6758000" />
+      <workItem from="1681452153982" duration="8092000" />
+      <workItem from="1681556552283" duration="1070000" />
+      <workItem from="1681622469774" duration="9481000" />
+      <workItem from="1681666954224" duration="8379000" />
+      <workItem from="1681924262766" duration="850000" />
+      <workItem from="1682055689202" duration="800000" />
+      <workItem from="1682218782405" duration="3173000" />
+      <workItem from="1682394041332" duration="3726000" />
+      <workItem from="1682504320842" duration="2606000" />
+      <workItem from="1682526658863" duration="7878000" />
+      <workItem from="1682793118779" duration="3570000" />
+      <workItem from="1682830289484" duration="838000" />
+      <workItem from="1682924067830" duration="3212000" />
+      <workItem from="1683130440376" duration="464000" />
+      <workItem from="1683274965423" duration="754000" />
+      <workItem from="1683349659745" duration="6921000" />
+      <workItem from="1683475899188" duration="8030000" />
+      <workItem from="1683488975295" duration="150000" />
+      <workItem from="1683717118625" duration="3954000" />
+      <workItem from="1683737401623" duration="3139000" />
+      <workItem from="1684043330463" duration="4498000" />
+      <workItem from="1684342504199" duration="4084000" />
+      <workItem from="1684476309234" duration="463000" />
+      <workItem from="1684515091841" duration="5281000" />
+      <workItem from="1684583338975" duration="4267000" />
+      <workItem from="1684665328505" duration="4243000" />
+      <workItem from="1684689108098" duration="4238000" />
+      <workItem from="1684749123102" duration="3753000" />
+      <workItem from="1684814665198" duration="2492000" />
+      <workItem from="1684994778172" duration="7371000" />
+      <workItem from="1685042417705" duration="436000" />
+      <workItem from="1685125908508" duration="1867000" />
+      <workItem from="1686684237358" duration="1468000" />
+      <workItem from="1687201711984" duration="857000" />
+      <workItem from="1687284206622" duration="17000" />
+      <workItem from="1688003750328" duration="1497000" />
+      <workItem from="1688060456893" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -80,7 +181,324 @@
           <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/AthMagicalnumber.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/KthMinimumElement.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/MedianArray.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/PainterPartition.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/FoodPacketsDistribution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hashing/WindowString.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/MaximumMinimumMagic.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/SimplifyDirectoryPath.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/SimplifyDirectoryPath.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/InfixtoPostfix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/PrintAllSubsequences.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/MedianArray.java</url>
+          <line>78</line>
+          <properties class="searching.MedianArray" method="binarySearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/AggressiveCows.java</url>
+          <line>16</line>
+          <properties class="searching.AggressiveCows" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/PainterPartition.java</url>
+          <line>16</line>
+          <properties class="searching.PainterPartition" method="paint">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/PainterPartition.java</url>
+          <line>44</line>
+          <properties class="searching.PainterPartition" method="checkMin">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/FoodPacketsDistribution.java</url>
+          <line>11</line>
+          <properties class="searching.FoodPacketsDistribution" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Hashing/WindowString.java</url>
+          <line>52</line>
+          <properties class="Hashing.WindowString" method="samllestWindow">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/freqofgivenElement.java</url>
+          <line>24</line>
+          <properties class="searching.freqofgivenElement" method="firstBinarySearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/TreePostandInorder.java</url>
+          <line>94</line>
+          <properties class="Tree.TreePostandInorder" method="buildtree">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/SortedArraytoBalanceBST.java</url>
+          <line>25</line>
+          <properties class="Tree.SortedArraytoBalanceBST" method="sortedtoBST">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/DistancebetweenNodesofBST.java</url>
+          <line>35</line>
+          <properties class="Tree.DistancebetweenNodesofBST" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/DeserializeBinaryTree.java</url>
+          <line>43</line>
+          <properties class="Tree.DeserializeBinaryTree" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/OddandEvenLevels.java</url>
+          <line>40</line>
+          <properties class="Tree.OddandEvenLevels" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/ReversePairs.java</url>
+          <line>31</line>
+          <properties class="sorting.ReversePairs" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/MaximumMinimumMagic.java</url>
+          <line>12</line>
+          <properties class="sorting.MaximumMinimumMagic" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/sorting/SumtheDifference.java</url>
+          <line>11</line>
+          <properties class="sorting.SumtheDifference" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/MaxsumPath.java</url>
+          <line>30</line>
+          <properties class="Tree.MaxsumPath" method="maxPathSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Tree/NodeFromDistanceC.java</url>
+          <line>65</line>
+          <properties class="Tree.NodeFromDistanceC" method="distancefromNode">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Linkedlist/LongestPalindromicList.java</url>
+          <line>40</line>
+          <properties class="Linkedlist.LongestPalindromicList" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/SortStack.java</url>
+          <line>29</line>
+          <properties class="Stacks.SortStack" method="MergeSort">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/DoubleCharacterTrouble.java</url>
+          <line>11</line>
+          <properties class="Stacks.DoubleCharacterTrouble" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/NearestSmallestElement.java</url>
+          <line>16</line>
+          <properties class="Stacks.NearestSmallestElement" method="nearestSmallestElementleft">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Stacks/NearestGreatestElement.java</url>
+          <line>16</line>
+          <properties class="Stacks.NearestGreatestElement" method="nearestGreatestElementleft">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/FloorofNumber.java</url>
+          <line>10</line>
+          <properties class="searching.FloorofNumber" method="floorNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/AllocateBooks.java</url>
+          <line>43</line>
+          <properties class="searching.AllocateBooks" method="SubarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/MinimumSizeSubarraySum.java</url>
+          <line>20</line>
+          <properties class="searching.MinimumSizeSubarraySum" method="minSubArrayLen">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/searching/MinimumSizeSubarraySum.java</url>
+          <line>40</line>
+          <properties class="searching.MinimumSizeSubarraySum" method="subarraySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/PrintAllSubsequences.java</url>
+          <line>12</line>
+          <properties class="Recursion.PrintAllSubsequences" method="printAllSubsequences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Recursion/AllsubsequencesSum.java</url>
+          <line>14</line>
+          <properties class="Recursion.AllsubsequencesSum" method="sumAllSubsequences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="A" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
