@@ -1,6 +1,22 @@
 package bactracking;
 
-public class SudukoSolver {
+public class SudokoSolver {
 
-    public 
+    public static void main(String[] args) {
+
+    }
+
+    public void solveSudoko(char[][]board){
+
+
+    }
+
+    public boolean solveBoard(char[][]board){
+        return true;
+    }
+    public boolean isValid(char[][]board , int row ,  int col , char c){
+
+   return false;
+
+    }
 }
